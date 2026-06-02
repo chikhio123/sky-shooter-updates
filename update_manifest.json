@@ -1,6 +1,9 @@
 {
-  "release_url": "https://github.com/chikhio123/sky-shooter-updates",
-  "notes": "发布版本已撤回，当前暂无可下载更新。",
-  "version": "0.1.0",
-  "published_at": ""
+  "version": "0.2.1-test",
+  "release_url": "https://github.com/chikhio123/sky-shooter-updates/releases/tag/v0.2.1-test",
+  "download_url": "https://github.com/chikhio123/sky-shooter-updates/releases/download/v0.2.1-test/sky-shooter-0.2.1-test-windows-x86_64.zip",
+  "sha256": "AE0CD44819C9DC076D3892BDF5B64D12B8363E549AB774E5DBB798846CFB06C1",
+  "size_bytes": 50305140,
+  "notes": "v2 自动更新目标包，用于验证完整下载与替换流程。",
+  "published_at": "2026-06-02T19:09:03.9852122+08:00"
 }
