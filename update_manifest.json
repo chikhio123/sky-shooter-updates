@@ -1,6 +1,6 @@
 {
-  "version": "0.1.1-test",
-  "notes": "测试发布：新增 Chapter 2 Level 7 烟测关卡。",
-  "release_url": "https://github.com/chikhio123/sky-shooter-updates/releases/tag/v0.1.1-test",
-  "published_at": "2026-06-02T18:04:16+08:00"
+  "release_url": "https://github.com/chikhio123/sky-shooter-updates",
+  "notes": "发布版本已撤回，当前暂无可下载更新。",
+  "version": "0.1.0",
+  "published_at": ""
 }
